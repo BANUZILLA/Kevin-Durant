@@ -1,1 +1,1 @@
-# Website about (Kevin Durant)[https://BANUZILLA.github.io/KD]
+# Website about [Kevin Durant](https://BANUZILLA.github.io/KD)
